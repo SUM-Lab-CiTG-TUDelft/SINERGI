@@ -19,7 +19,6 @@ The project brings together academic, industrial, and public partners to explore
 - **Dr. Shadi Sharif Azadeh**: Project Coordinator Europe
 - **Dr. Gonçalo Correia**: Co – Principal Investigator and WP 2 leader
 - **Dr. Yousef Maknoon**: Co – Principal Investigator and WP 4 leader
-- **Prof. Bart Van Arem**: Team member
 
 *SUM LAB Researchers*
 - **Dr. Dongyang Xia**: Dongyang develops optimization frameworks for platform-based urban logistics, focusing on the integration of assortment design, dynamic restaurant ranking, and courier routing. His research highlights how incorporating customer choice behavior, congestion effects, and fairness-aware rider planning can enhance both platform profitability and service equity.
