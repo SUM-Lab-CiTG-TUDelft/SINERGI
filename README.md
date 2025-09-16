@@ -1,6 +1,6 @@
 # SINERGI – Sustainable and Intelligent Next-generation Energy and moBility inteGRation Infrastructure
 
-Welcome to the SUM Lab hub for **SINERGI**, a European research project on sustainable and intelligent integration of energy and mobility infrastructures.
+Welcome to the SUM Lab hub for **SINERGI**, an international research project on sustainable and intelligent integration of energy and mobility infrastructures.
 
 🔗 **Official project page:** [sinergi-project.com](https://sinergi-project.com/)
 
