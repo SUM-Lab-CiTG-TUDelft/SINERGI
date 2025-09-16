@@ -14,11 +14,17 @@ The project brings together academic, industrial, and public partners to explore
 - Energy–mobility system integration
 - Sustainable urban transport planning
 
-*SUM LAB RESEARCHERS*
+*SUM LAB Leaders*
 
-- **Dongyang Xia**: Dongyang develops optimization frameworks for platform-based urban logistics, focusing on the integration of assortment design, dynamic restaurant ranking, and courier routing. His research highlights how incorporating customer choice behavior, congestion effects, and fairness-aware rider planning can enhance both platform profitability and service equity.
-- **Kuldeep Kavta**: Kuldeep's research focuses on behavior modeling of riders and consumers in the online food delivery context, with an emphasis on enhancing rider safety and reducing the risk of road crashes.
-- **Serkan Ozdemir**: Serkan is working on agent-based modeling to simulate micro-delivery services. His research aims to develop a decision support platform with a focus on real-life conditions and scenarios considering behavioral aspects of agents.
+- **Dr. Shadi Sharif Azadeh**: Project Coordinator Europe
+- **Dr. Gonçalo Correia**: Co – Principal Investigator and WP 2 leader
+- **Dr. Yousef Maknoon**: Co – Principal Investigator and WP 4 leader
+- **Prof. Bart Van Arem**: Team member
+
+*SUM LAB Researchers*
+- **Dr. Dongyang Xia**: Dongyang develops optimization frameworks for platform-based urban logistics, focusing on the integration of assortment design, dynamic restaurant ranking, and courier routing. His research highlights how incorporating customer choice behavior, congestion effects, and fairness-aware rider planning can enhance both platform profitability and service equity.
+- **Dr. Kuldeep Kavta**: Kuldeep's research focuses on behavior modeling of riders and consumers in the online food delivery context, with an emphasis on enhancing rider safety and reducing the risk of road crashes.
+- **Dr. Serkan Ozdemir**: Serkan is working on agent-based modeling to simulate micro-delivery services. His research aims to develop a decision support platform with a focus on real-life conditions and scenarios considering behavioral aspects of agents.
 ---
 
 ## 📂 Code & Tools
