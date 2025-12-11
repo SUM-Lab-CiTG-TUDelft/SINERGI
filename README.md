@@ -41,7 +41,17 @@ This repository serves as a **hub**. SINERGI-related code, data, and analysis li
 ## 📑 Outcomes
 
 ### 📘 Journal Articles
-- **The road less travelled: A route choice experiment focusing on the safety of food delivery riders**  
+- **A short-term predict-then-cluster framework for meal delivery services**  
+  *Data Science for Transportation*  
+  *Jingyi Cheng, Shadi Sharif Azadeh*  
+  *(WP4)*
+  
+- **Exact and heuristic algorithms for cardinality-constrained assortment optimization problem under the cross-nested logit model**  
+  *European Journal of Operational Research*  
+  *Le Zhang, Shadi Sharif Azadeh, Hai Jiang*  
+  *(WP3)*  
+   
+- **Estimating the value of safety against crashes: A stated preference experiment on route choice of food delivery riders**  
   *Transportation Research Part C*  
   *Kuldeep Kavta, Shadi Sharif Azadeh, Yousef Maknoon, Gonçalo Homem de Almeida Correia*  
   *(WP2)*  
@@ -64,7 +74,7 @@ This repository serves as a **hub**. SINERGI-related code, data, and analysis li
 ---
 
 ### 📄 Reports
-- **Safety and wellbeing of food delivery riders: A report for work package 2 of JPI-ERANET project SINERGI**  
+- **Safety and well-being of food delivery riders: A report for work package 2 of JPI-ERANET project SINERGI**  
   *Kuldeep Kavta, Gonçalo Homem de Almeida Correia, Shadi Sharif Azadeh*  
   *(WP2)*  
 
@@ -72,14 +82,24 @@ This repository serves as a **hub**. SINERGI-related code, data, and analysis li
 
 ### 🎤 Conference Papers
 - **Does fairness crowd out efficiency? Real-time flexible ranking of restaurants and courier routing in on-demand meal delivery platforms**  
-  *MSOM 2025*  
+  *2025 INFORMS MSOM Conference*  
   *Dongyang Xia, Yousef Maknoon, Hai Wang, Niels Agatz, Shadi Sharif Azadeh*  
   *(WP3)*  
 
-- **Unified Optimization of Assortment Selection and Courier Routing for Meal Delivery Platforms**  
-  *HEART 2025*  
+- **Unified optimization of assortment selection and courier routing for meal delivery platforms**  
+  *hEART 2025*  
   *Dongyang Xia, Yousef Maknoon, Frederiek Backers, Shadi Sharif Azadeh*  
-  *(WP4)*  
+  *(WP4)*
+  
+- **The road less travelled: A route choice experiment focusing on the safety of food delivery riders**  
+  *hEART 2024*  
+  *Kuldeep Kavta, Shadi Sharif Azadeh, Yousef Maknoon, Gonçalo Homem de Almeida Correia*  
+  *(WP2)*
+
+ - **Candidate forward warehouses locations for the last mile fresh product delivery**  
+  *28th International HKSTS Conference*  
+  *Rongjie Sun, Kun An, Shadi Sharif Azadeh*  
+  *(WP1)*
 
 ---
 
