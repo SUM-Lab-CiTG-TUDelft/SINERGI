@@ -61,12 +61,12 @@ This repository serves as a **hub**. SINERGI-related code, data, and analysis li
   *C. Yang, Y. Maknoon, H. Jiang, S. Sharif Azadeh*  
   *(WP1)*  
 
-- **Dynamic Fleet Management of Waterborne Vessels with Mixed Passenger and Parcel Services**  
+- **Dynamic fleet management of waterborne vessels with mixed passenger and parcel services**  
   *npj Sustainable Mobility and Transport*  
   *H. Myioshi, Y. Zhang, S. Sharif Azadeh, O. Cats*  
   *(WP1)*  
 
-- **Planning Micro-logistics Centers for On-demand Food Delivery Service with A Mixed Operational Model**  
+- **Planning micro-logistics centers for on-demand food delivery service with a mixed operational model**  
   *Transportation Policy*  
   *Y. Qi, S. Sharif Azadeh, G. Correia, Y. Maknoon*  
   *(WP1)*  
@@ -103,7 +103,7 @@ This repository serves as a **hub**. SINERGI-related code, data, and analysis li
 
 ---
 
-### 👥Short Videos
+### 👥 Short Videos
 [Short Videos of SINERGI Outcomes](https://sinergi-project.com/project-outcomes/)
   
 ---
@@ -112,7 +112,6 @@ This repository serves as a **hub**. SINERGI-related code, data, and analysis li
 SINERGI is co-funded under the IFD, JPI ERA-NET, NSFC, and NWO programme and brings together partners across academia, industry, and public authorities.
 
 This GitHub hub is maintained by the **[SUM Lab – TU Delft](https://github.com/SUM-Lab-CiTG-TUDelft)**.  
-For inquiries, please contact: [maintainer email].
 
 ---
 
