@@ -33,6 +33,7 @@ This repository serves as a **hub**. SINERGI-related code, data, and analysis li
 | Repository | Description |
 |------------|-------------|
 | [DCM_SINERGI](https://github.com/SUM-Lab-CiTG-TUDelft/DCM_SINERGI) | Demand & Capacity Modeling framework developed within SINERGI |
+| [SINERGI-WP3](https://github.com/YLY3247/SINERGI-WP3/tree/main) | Code and materials related to SINERGI WP3 |
 
 > More repositories and tools will be added here as the project progresses.
 
