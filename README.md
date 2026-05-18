@@ -77,7 +77,10 @@ This repository serves as a **hub**. SINERGI-related code, data, and analysis li
 ### 📄 Reports
 - **Safety and well-being of food delivery riders: A report for work package 2 of JPI-ERANET project SINERGI**  
   *Kuldeep Kavta, Gonçalo Homem de Almeida Correia, Shadi Sharif Azadeh*  
-  *(WP2)*  
+  *(WP2)*
+
+- **[Policy Report](https://sinergi-project.com/project-outcomes/)**  
+  *(SINERGI project outcomes)*
 
 ---
 
